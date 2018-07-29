@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130653488280",
+    "firebase_url": "https://famousfoodnearby.firebaseio.com",
+    "project_id": "famousfoodnearby",
+    "storage_bucket": "famousfoodnearby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130653488280:android:212984c840951822",
+        "android_client_info": {
+          "package_name": "com.codebuildrs.otpsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130653488280-1qhbrncbk214t0njkkqojujp4mp491qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3pSqAYKQ3xeSLyYRKN-SmqR-BuhFvUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
